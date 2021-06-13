@@ -6,5 +6,5 @@
 - :school: I'm currently doing my UG at  [Amrita Vishwa Vidyapeetham Chennai Campus ](https://www.google.com/maps/place/Amrita+Vishwa+Vidyapeetham+Chennai+Campus/@13.2571516,80.0247544,15.44z/data=!4m5!3m4!1s0x3a52814946112d6f:0x57a644f6f25f9b0c!8m2!3d13.2631626!4d80.0275566)
 
 - ⚡ Fun fact:  Right now, I’m reading about Mahabarat by [ Bibek Debroy](https://en.wikipedia.org/wiki/Bibek_Debroy)
-- 😄 Pronouns: ... He/His
+- 😄 Pronouns: He/His
 
