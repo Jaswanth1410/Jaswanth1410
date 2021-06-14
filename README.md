@@ -10,3 +10,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth1410)](https://github.com/Jaswanth1410/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth1410)](https://github.com/Jaswanth1410/github-readme-stats)
+
