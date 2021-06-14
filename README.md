@@ -24,9 +24,8 @@
 <br><br>
 --------------------------------
 ## Connect @
-<img align="left" alt="Terminal" width="35px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
-<br>
-<img align="left" alt="Terminal" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
+<img align="left" alt="Terminal" width="50px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
+<img align="left" alt="Terminal" width="50px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 <br>
 -------------------------------
 
