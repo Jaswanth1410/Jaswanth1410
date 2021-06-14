@@ -22,7 +22,11 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br><br>
+--------------------------------
+## Connect @
+<img align="left" alt="Terminal" width="26px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
 
+-------------------------------
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth1410)](https://github.com/Jaswanth1410/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth1410)](https://github.com/Jaswanth1410/github-readme-stats)
