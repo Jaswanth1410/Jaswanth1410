@@ -7,4 +7,4 @@
 
 - ⚡ Fun fact:  Right now, I’m reading about Mahabarat by [ Bibek Debroy](https://en.wikipedia.org/wiki/Bibek_Debroy)
 - 😄 Pronouns: He/His
-
+<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
