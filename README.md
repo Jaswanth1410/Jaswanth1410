@@ -25,7 +25,7 @@
 --------------------------------
 ## Connect @
 <img align="left" alt="Terminal" width="26px" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_TRANSPARENT_400.gif" />
-
+<br>
 -------------------------------
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth1410)](https://github.com/Jaswanth1410/github-readme-stats)
 
