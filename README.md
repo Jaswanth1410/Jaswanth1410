@@ -1,6 +1,4 @@
-Here's an updated, engaging, and comprehensive GitHub README tailored to your interests in AI, data science, and your diverse skill set:
 
----
 
 ## 🌟 Hi there, I'm **Jaswanth**! 👋
 ---
